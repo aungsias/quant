@@ -10,7 +10,7 @@ The repository includes a diverse range of quantitative projects, covering topic
 ## Usage and Contributions
 Feel free to explore the projects in this repository and review the associated code and documentation. While the projects are provided for reference and learning purposes, please note that they may not always be actively maintained or updated. However, your feedback, suggestions, and contributions are always welcome. If you discover any issues, have ideas for improvements, or would like to contribute new projects, you can create a pull request with your proposed changes.
 
-Thank you for visiting the quant-papers repository. I hope you find it informative and inspiring. If you have any questions or comments, please feel free to reach out to me at **aungsi.as99@gmail.com**
+Thank you for visiting the quant-papers repository. I hope you find it informative and inspiring. If you have any questions or comments, please feel free to reach out to me at **aungsi.as99@gmail.com**!
 
 Happy reading,
 Aung Si
