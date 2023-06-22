@@ -13,7 +13,7 @@ Feel free to explore the projects in this repository and review the associated c
 ## My Story
 At USC, I discovered a deep-seated passion for finance and entrepreneurship, which led me to participate extensively in student-led venture capital activities. This engagement was instrumental in founding the Trojan Venture Society, an initiative aimed at demystifying venture capital for students. We focused on guiding students in identifying promising investments and offering a curriculum, co-designed with a USC alum who made his mark in the industry.
 
-While studying business administration at USC Marshall, I witnessed the rise and fall of market bubbles from 2021 to 2022. This real-world observation, along with an understanding of how emotions like fear and greed can bias decisions in finance and deal-making, reinforced the importance of technical skills. It motivated me to broaden both my academic and professional perspectives.
+While studying business administration at USC Marshall, I witnessed the rise and fall of market bubbles from 2021 to 2022. This real-world observation, along with an understanding of how emotions like fear and greed can bias decisions in finance and deal-making, reinforced the importance of technical skills. It motivated me to broaden both my academic and professional perspectives and compelled my pivot into the world of programming.
 
 Ray Dalio's "Principles" offered a valuable nugget of insight - the power of integrating algorithmic processes with intuition for effective problem-solving. Encouraged by this perspective, I made a significant pivot and immersed myself in programming in January 2023, to add a more quantitative lens to decision-making processes.
 
