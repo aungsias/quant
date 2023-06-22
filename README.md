@@ -12,5 +12,4 @@ Feel free to explore the projects in this repository and review the associated c
 
 Thank you for visiting the quant-papers repository. I hope you find it informative and inspiring. If you have any questions or comments, please feel free to reach out to me at **aungsi.as99@gmail.com**!
 
-Happy reading,
 Aung Si
