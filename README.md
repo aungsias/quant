@@ -15,9 +15,9 @@ At USC, I discovered a deep-seated passion for finance and entrepreneurship, whi
 
 While studying business administration at USC Marshall, I witnessed the rise and fall of market bubbles from 2021 to 2022. This real-world observation, along with an understanding of how emotions like fear and greed can bias decisions in finance and deal-making, reinforced the importance of technical skills. It motivated me to broaden both my academic and professional perspectives and compelled my pivot into the world of programming.
 
-Ray Dalio's "Principles" offered a valuable nugget of insight - the power of integrating algorithmic processes with intuition for effective problem-solving. Encouraged by this perspective, I switched gears and began teaching myself programming in January 2023, to add a more quantitative lens to decision-making processes.
+Ray Dalio's "Principles" offered a valuable nugget of insight - the power of integrating algorithmic processes with intuition for effective problem-solving. Encouraged by this perspective, I switched gears entirely and began teaching myself programming in January 2023, to add a more quantitative lens to decision-making processes.
 
-I acknowledge that this represents a considerable shift from my previous endeavors in VC, but I'm eager to compensate for this through the depth and breadth of my explorative projects. I also acknowledge the limitations of being self-taught, but I work every day to fill in the gaps and overcome my lack of formal programming knowledge through these projects.
+I acknowledge that this represents a considerable shift from my previous endeavors in VC, but I'm eager to compensate for this through the depth and breadth of my explorative projects. I also acknowledge the limitations of being self-taught, but I work every day to fill in the gaps and overcome my lack of formal programming education through the projects I carry out.
 
 Over the past six months, I've dedicated the better part of each day to coding, harnessing it as a tool for quantitative analysis that will help me become more methodical and nuanced in my outlook and decision-making. My aim is to develop the deliberation and statistical rigor needed to become a successful investor.
 
