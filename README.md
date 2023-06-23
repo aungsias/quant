@@ -2,7 +2,7 @@
 Welcome to the quant-papers repository! This repository serves as a catalog of all the quantitative projects I have undertaken, ranging from finance-related projects in the stock market domain to potential explorations in other quantitative areas. The primary goal of this repository is to showcase my work in exploring various quantitative models, testing methodologies, and backtesting techniques.
 
 ## About
-The quant-papers repository is a collection of projects that demonstrate my passion for quantitative analysis and modeling. It provides an overview of the different projects I have completed thus far, with each project stored in a separate directory. Within each project directory, you will find the relevant code, data files, documentation, and any additional resources associated with that specific project.
+The quant-papers repository is a collection of projects that demonstrate my passion for quantitative analysis and modeling. It provides an overview of the different projects I have completed thus far. Currently they are all in separate jupyter notebooks.
 
 ## Contents
 The repository includes a diverse range of quantitative projects, covering topics such as time series analysis, clustering algorithms, portfolio optimization algorithms, and more. These projects are designed to provide insights into market behavior, identify patterns, and develop effective strategies. As I continue to explore new models and methodologies, the repository will expand to include a broader range of quantitative projects.
